@@ -1,0 +1,83 @@
+.profile-employemnt-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 20px;
+  margin-left: 50px;
+  width: 100%px;
+}
+.prfile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  border-radius: 8px;
+  max-width: 225px;
+  padding: 10px;
+}
+.prifileimage {
+  width: 50px;
+  height: 50px;
+}
+.name-heading {
+  color: #6366f1;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+}
+.prifile-descripton {
+  color: #2c364c;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.break-line {
+  width: 100%;
+  border: 1px solid #cbd5e1;
+  margin-top: 30px;
+}
+.employement-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.employement-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 14px;
+}
+.employement-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 0px;
+}
+.checkbox-container {
+  margin-top: 8px;
+}
+.checkbox-input {
+}
+.label {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 12px;
+  margin-left: 8px;
+}
+.salary-range-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.salary-range-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: 0px;
+}
+.salary-range-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 0px;
+}
